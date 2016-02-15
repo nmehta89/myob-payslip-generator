@@ -9,7 +9,7 @@ import java.util.List;
 
 public class TestJunit {
 	
-   String message = "David Rudd,01 March – 31 March,5004.0, 922.0, 4082.0, 450.0";	
+   String message = "David Rudd,01 March - 31 March,5004.0, 922.0, 4082.0, 450.0";	
    
    public String testEval() {
 		File f = new File("");
